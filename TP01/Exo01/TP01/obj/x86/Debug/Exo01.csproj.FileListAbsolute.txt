@@ -1,0 +1,4 @@
+U:\SLAM1\TP01\Exo01\TP01\bin\Debug\TP01.exe
+U:\SLAM1\TP01\Exo01\TP01\bin\Debug\TP01.pdb
+U:\SLAM1\TP01\Exo01\TP01\obj\x86\Debug\TP01.exe
+U:\SLAM1\TP01\Exo01\TP01\obj\x86\Debug\TP01.pdb

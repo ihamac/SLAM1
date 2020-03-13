@@ -1,0 +1,10 @@
+U:\si4\SLAM1\Message\Message\bin\Debug\Message.exe.config
+U:\si4\SLAM1\Message\Message\bin\Debug\Message.exe
+U:\si4\SLAM1\Message\Message\bin\Debug\Message.pdb
+U:\si4\SLAM1\Message\Message\obj\Debug\Message.csprojAssemblyReference.cache
+U:\si4\SLAM1\Message\Message\obj\Debug\Message.Form1.resources
+U:\si4\SLAM1\Message\Message\obj\Debug\Message.Properties.Resources.resources
+U:\si4\SLAM1\Message\Message\obj\Debug\Message.csproj.GenerateResource.cache
+U:\si4\SLAM1\Message\Message\obj\Debug\Message.csproj.CoreCompileInputs.cache
+U:\si4\SLAM1\Message\Message\obj\Debug\Message.exe
+U:\si4\SLAM1\Message\Message\obj\Debug\Message.pdb

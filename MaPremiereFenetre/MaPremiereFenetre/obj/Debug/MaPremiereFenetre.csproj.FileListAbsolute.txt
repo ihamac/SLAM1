@@ -1,0 +1,10 @@
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\bin\Debug\MaPremiereFenetre.exe.config
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\bin\Debug\MaPremiereFenetre.exe
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\bin\Debug\MaPremiereFenetre.pdb
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\obj\Debug\MaPremiereFenetre.csprojAssemblyReference.cache
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\obj\Debug\MaPremiereFenetre.Form1.resources
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\obj\Debug\MaPremiereFenetre.Properties.Resources.resources
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\obj\Debug\MaPremiereFenetre.csproj.GenerateResource.cache
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\obj\Debug\MaPremiereFenetre.csproj.CoreCompileInputs.cache
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\obj\Debug\MaPremiereFenetre.exe
+U:\si4\SLAM1\MaPremiereFenetre\MaPremiereFenetre\obj\Debug\MaPremiereFenetre.pdb

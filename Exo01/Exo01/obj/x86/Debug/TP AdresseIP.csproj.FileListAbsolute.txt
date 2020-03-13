@@ -1,0 +1,6 @@
+U:\si4\SLAM1\Exo01\Exo01\obj\x86\Debug\Exo01.exe
+U:\si4\SLAM1\Exo01\Exo01\bin\Debug\Exo01.exe
+U:\si4\SLAM1\Exo01\Exo01\bin\Debug\Exo01.pdb
+U:\si4\SLAM1\Exo01\Exo01\bin\Debug\adresseIp.dll
+U:\si4\SLAM1\Exo01\Exo01\bin\Debug\adresseIp.xml
+U:\si4\SLAM1\Exo01\Exo01\obj\x86\Debug\Exo01.pdb

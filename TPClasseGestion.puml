@@ -1,0 +1,91 @@
+@startuml Hypothèse 1
+class Produit{
+    <u>codeProduit</u>
+    designation
+    prixDeVente
+    prixAchat
+    Quantité
+}
+class Depot{
+    <u>codeDepot</u>
+    adresse
+    surface
+}
+class Fournisseur{
+    <u>numeroFournisseur</u>
+    nom
+    adresse
+}
+Produit"1..*"-right-"1"Depot:Stocker
+Produit"1..*"--"1"Fournisseur:Fournir
+@enduml
+
+
+@startuml Hypothèse 2
+class Produit{
+    <u>codeProduit</u>
+    designation
+    prixDeVente
+    Quantité
+}
+class Depot{
+    <u>codeDepot</u>
+    adresse
+    surface
+}
+class Fournisseur{
+    <u>numeroFournisseur</u>
+    nom
+    adresse
+}
+
+Produit"0..*"-right-"1..*"Depot:Stocker
+Produit"1..*"--"1"Fournisseur:Fournir
+@enduml
+
+@startuml Hypothèse 3
+class Produit{
+    <u>codeProduit</u>
+    designation
+    prixDeVente
+    Quantité
+}
+class Depot{
+    <u>codeDepot</u>
+    adresse
+    surface
+}
+class Fournisseur{
+    <u>numeroFournisseur</u>
+    nom
+    adresse
+}
+Produit"1..*"-right-"1"Depot:\tStocker\t
+Produit"1"--"1..*"Fournisseur:Fournir
+@enduml
+
+@startuml Hypothèse 4
+class Produit{
+    <u>codeProduit</u>
+    designation
+    prixDeVente
+    Quantité
+    PrixAchat
+}
+class Depot{
+    <u>codeDepot</u>
+    adresse
+    surface
+}
+class Fournisseur{
+    <u>numeroFournisseur</u>
+    nom
+    adresse
+}
+class Acheter{
+    PrixAchat
+}
+Produit"1..*"-right-"1"Depot:\tStocker\t
+Produit"1..*"--"1..*"Fournisseur:Fournir
+(Produit,Fournisseur)..Acheter
+@enduml

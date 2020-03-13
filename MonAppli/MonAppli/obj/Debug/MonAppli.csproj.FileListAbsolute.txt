@@ -1,0 +1,10 @@
+U:\si4\SLAM1\MonAppli\MonAppli\bin\Debug\MonAppli.exe.config
+U:\si4\SLAM1\MonAppli\MonAppli\bin\Debug\MonAppli.exe
+U:\si4\SLAM1\MonAppli\MonAppli\bin\Debug\MonAppli.pdb
+U:\si4\SLAM1\MonAppli\MonAppli\obj\Debug\MonAppli.csprojAssemblyReference.cache
+U:\si4\SLAM1\MonAppli\MonAppli\obj\Debug\MonAppli.Properties.Resources.resources
+U:\si4\SLAM1\MonAppli\MonAppli\obj\Debug\MonAppli.csproj.GenerateResource.cache
+U:\si4\SLAM1\MonAppli\MonAppli\obj\Debug\MonAppli.csproj.CoreCompileInputs.cache
+U:\si4\SLAM1\MonAppli\MonAppli\obj\Debug\MonAppli.exe
+U:\si4\SLAM1\MonAppli\MonAppli\obj\Debug\MonAppli.pdb
+U:\si4\SLAM1\MonAppli\MonAppli\obj\Debug\MonAppli.FListe.resources
